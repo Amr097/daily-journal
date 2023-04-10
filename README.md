@@ -2,7 +2,7 @@
 
 ## Summary
 
-Daily Journal Blog-with-Database built using in NodeJS, Ejs and mongoose: a Node.js-based Object Data Modeling library for MongoDB.
+Daily Journal Blog-with-Database built using NodeJS, Ejs and mongoose: a Node.js-based Object Data Modeling library for MongoDB.
 
 
 ## Installation
